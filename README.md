@@ -1,4 +1,4 @@
-# shell-scripts
+# bash-scripts
 bash scripts used in the analysis of Illumina sequence data:
 
 **1) trimmomatic.sh**
