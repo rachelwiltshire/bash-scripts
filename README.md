@@ -1,13 +1,13 @@
 # bash-scripts
-bash scripts used in the analysis of Illumina sequence data:
+Bash scripts used in the analysis of Illumina sequence data:
 
 **1) trimmomatic.sh**
 
-- removes Illumina sequencing and other adapters and trims poor quality reads
+- Removes Illumina sequencing and other adapters and trims poor quality reads
 
 **2) bwa.sh**
 
-- aligns reads to reference genome and generates the .sam file required for variant calling
+- Aligns reads to reference genome and generates the .sam file required for variant calling
 
 ## Understanding variant information in a .vcf
 
